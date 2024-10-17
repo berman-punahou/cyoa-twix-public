@@ -1,0 +1,56 @@
+p {
+	border-color: black;
+	font-size: 21px;
+	font-family: "Pirata One", system-ui;
+	font-weight: 400;
+	font-style: normal;
+}
+
+body {
+background-color:#305075;
+color:#bad0e8;
+font-family: "Pirata One", system-ui;
+}
+
+hr {
+	color:#305075;
+}
+
+
+/* Class */
+.creepster-regular {
+  font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 100px;
+}
+
+.pirata-one-regular {
+  font-family: "Pirata One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+
+.HH_chills {
+	background-color:#1c1239;
+	color:#1c1239;
+	
+}
+
+.HH_bathroom {
+	background-color:#3c3c81;
+	color:#3c3c81;
+	
+} 
+
+.HH_throw{
+	background-color:#e05147;
+
+}
+
+
+/* ID */
+#grid {
+	margin: 10px;
+}
+

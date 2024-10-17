@@ -1,0 +1,96 @@
+
+
+/* Class */
+.arcade_wall {
+	background-color:#02f1f7;
+	color:#02f1f7;
+}
+
+.arcade_floor {
+	background-color:#251234;
+	color:#251234;
+
+} 
+
+.arcade_text{
+  font-family: "Silkscreen", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color:#ff00ff;
+  border-style: solid;
+  border-color:#ff00ff;
+  border-width:5px;
+}
+
+.arcade_mtext{
+	font-size:60px;
+}
+
+.arcade_img{
+	height:400px;
+}
+
+.arcade_back{
+	background-color:#62518f;
+	color:#62518f;
+}
+
+.wall_margin{
+	height:500px;
+}
+
+.floor_margin{
+	height:47px;
+}
+
+.mapless_wall{
+	width:300;
+}
+
+.ending-mtext{
+  font-family: "Courier Prime", monospace;
+  font-weight: 400;
+  font-style: normal;
+  font-size:50px;
+  color:black;
+}
+.ending9-etext{
+	font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size:50px;
+  color:crimson;
+}
+
+.ending9-bg{
+	background-color:darkorange;
+	color:darkorange;
+}
+
+.ending9-textbox{
+	border-style:solid;
+	border-color:crimson;
+	border-width:5px;
+}
+
+
+.ending10-etext{
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size:50px;
+  color:red;
+}
+
+.ending10-bg{
+	background-color:#2e3c3d;
+	color:#2e3c3d;
+}
+
+
+/* ID */
+#grid {
+	margin: 10px;
+}
+
+
